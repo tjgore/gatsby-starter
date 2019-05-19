@@ -1,0 +1,19 @@
+{
+  "name": "Hill",
+  "age": 25,
+  "hero": true,
+  "button": {
+    "text": "click me",
+    "url": "/go-here/2"
+  },
+  "fruits":[
+    {
+      "name": "apples",
+      "good": true
+    },
+    {
+      "name": "orange",
+      "good": false
+    }
+  ]
+}
